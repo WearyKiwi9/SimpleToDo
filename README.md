@@ -20,7 +20,11 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Add support for completion due dates for todo items (and display within listview item)
+* [ ] Improve style of the todo items in the list using a custom adapter
+* [ ] Persist the todo items into SQLite instead of a text file using SQLiteOpenHelper or Room
+* [ ] Improve the UI / UX of your app including icons, styling, color, spacing of your app.
+* [ ] Add support for selecting the priority of each todo item (and display in listview item)
 
 ## Video Walkthrough
 
@@ -32,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenge I had when building the app was using the tutorial with my upgraded version of Android Studio. Other than this small issue, the instruction was clear and concise. 
 
 ## License
 
